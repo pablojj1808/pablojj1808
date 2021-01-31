@@ -2,7 +2,8 @@
 - 🎓 I’m currently on
 - 🌱 I’m currently learning software engineering at UGR.
 - 💬 Ask me about code and computer processes!
-- 📨 @pablojj1808 | pablojjinfo@gmail.com
+- 📲 [@pablojj1808](https://t.me/pablojjinfo) 
+- 📧 pablojjinfo@gmail.com
 <!--
 **pablojj1808/pablojj1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
