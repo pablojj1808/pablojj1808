@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning software engineering at UGR.
 - 💬 Ask me about code and computer processes!
 - 📲 [@pablojj1808](https://t.me/pablojjinfo) 
-- 📧 pablojjinfo@gmail.com ([my public PGP key](https://drive.google.com/file/d/1MhP1jengpq1tfA0RfOUyXyTGiqPp68VN/view?usp=sharing))
+- 📧 pablojjinfo@gmail.com ([🔐my public PGP key](https://drive.google.com/file/d/1MhP1jengpq1tfA0RfOUyXyTGiqPp68VN/view?usp=sharing))
 <!--
 **pablojj1808/pablojj1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
